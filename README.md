@@ -9,7 +9,7 @@ I first fell in love with web design on my middle school blog. Throughout the ye
 
 🧠 I'm currently learning: C#, .NET, SQL
 
-💬 Ask me about [Nashville Walking Club](https://github.com/cassandradunning/nashville-walking-club) project & club.
+💬 Ask me about my clientside project: [Nashville Walking Club](https://github.com/cassandradunning/nashville-walking-club) 
 
 📫 Reach me at hello.cassdunning@gmail.com
 
