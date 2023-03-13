@@ -5,7 +5,7 @@ I first fell in love with web design on my middle school blog. Throughout the ye
 
 
 
-👩‍💻 I'm an apprentice at Nashville Software School
+👩‍💻 I'm an apprentice at [Nashville Software School](https://nashvillesoftwareschool.com/)
 
 🧠 I'm currently learning: C#, .NET, SQL
 
@@ -13,7 +13,7 @@ I first fell in love with web design on my middle school blog. Throughout the ye
 
 📫 Reach me at hello.cassdunning@gmail.com
 
-⚡️ Fun fact... I've lived out of a backpack in [ South East Asia](https://www.cassandra-dunning.com/blog/tag/Asia), [Southern Africa](https://www.cassandra-dunning.com/blog?offset=1539550440808&tag=Zambia)
+⚡️ Fun fact... I've lived out of a backpack in [South East Asia](https://www.cassandra-dunning.com/blog/tag/Asia), [Southern Africa](https://www.cassandra-dunning.com/blog?offset=1539550440808&tag=Zambia)
 , & [Eastern Europe](https://www.cassandra-dunning.com/blog/tag/Bosnia). See my photos [here](https://www.cassandra-dunning.com/).
 
 
