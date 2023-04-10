@@ -7,7 +7,7 @@ I first fell in love with web design on my middle school blog. Throughout the ye
 
 👩‍💻 I'm an apprentice at [Nashville Software School](https://nashvillesoftwareschool.com/)
 
-🧠 I'm currently learning: C#, .NET, SQL
+🧠 I'm currently learning: Web APIs with ASP.NET Core
 
 💬 Ask me about my clientside project: [Nashville Walking Club](https://github.com/cassandradunning/nashville-walking-club) 
 
