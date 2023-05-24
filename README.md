@@ -5,11 +5,13 @@ I first fell in love with web design on my middle school blog. Throughout the ye
 
 
 
-👩‍💻 I'm an apprentice at [Nashville Software School](https://nashvillesoftwareschool.com/)
+👩‍💻 I just finished an apprenticeship at [Nashville Software School](https://nashvillesoftwareschool.com/)
 
-🧠 I'm currently learning: Web APIs with ASP.NET Core
+🧠 I'm currently learning: How to deploy my projects - any tips?!
 
 💬 Ask me about my clientside project: [Nashville Walking Club](https://github.com/cassandradunning/nashville-walking-club) 
+
+💬 Ask me about my serverside project:[Listen List](https://github.com/cassandradunning/listen_list) 
 
 📫 Reach me at hello.cassdunning@gmail.com
 
