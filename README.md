@@ -19,7 +19,7 @@ I first fell in love with web design on my middle school blog. Throughout the ye
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, React, JSON Server, C#, .NET, SQL
+Javascript, HTML, CSS, React, JSON Server, C#, .NET, SQL, Razor, JSX, ADO.NET, Bootstrap/Reactstrap, Postman, Adobe Photoshop, Adobe Lightroom, Adobe InDesign, Adobe Premiere Pro
 
 
 ## 🔗 Links
