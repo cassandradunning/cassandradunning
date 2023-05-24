@@ -11,7 +11,7 @@ I first fell in love with web design on my middle school blog. Throughout the ye
 
 💬 Ask me about my clientside project: [Nashville Walking Club](https://github.com/cassandradunning/nashville-walking-club) 
 
-💬 Ask me about my serverside project:[Listen List](https://github.com/cassandradunning/listen_list) 
+💬 Ask me about my serverside project: [Listen List](https://github.com/cassandradunning/listen_list) 
 
 📫 Reach me at hello.cassdunning@gmail.com
 
