@@ -1,13 +1,13 @@
 ## ✨ About Me
 Hi I'm Cassie! I'm a software developer based in Nashville, Tennessee.
 
-I first fell in love with web design on my middle school blog. Throughout the years, that looked like volunteering to manage and maintain the website of any company I could get my hands on. 
+I first fell in love with web design on my middle school blog (Xanga, anyone?). Throughout the years, that looked like volunteering to manage and maintain the website of any company I could get my hands on. 
 
 
 
 👩‍💻 I just finished an apprenticeship at [Nashville Software School](https://nashvillesoftwareschool.com/)
 
-🧠 I'm currently learning: How to deploy my projects - any tips?!
+🧠 I'm currently learning: How to deploy my projects!
 
 💬 Ask me about my clientside project: [Nashville Walking Club](https://github.com/cassandradunning/nashville-walking-club) 
 
